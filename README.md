@@ -28,7 +28,7 @@
   
   <h4>Logs:</h4>
 
-- 🌱 Nos últimos tempos tenho me dedicado a ampliar os meus conhecimentos e evoluir como programador
+- 🌱 Nos últimos 30 dias tenho focado em me dedicar exclusivamente para ampliar os meus conhecimentos e evoluir como programador
 - ⚡ Atualmente busco aplicar TypeScript em todos os meus projetos e estou aprendendo a usar o Prisma ORM
 - 🤔 Fatos aleatórios: A melhor palavra curinga do mundo que existe é a palavra "depende".</div>
 
