@@ -7,6 +7,8 @@
   <div align="center">
     Desenvolvimento Especializado em Back-end com NodeJs, JavaScript & TypeScript
   </div>
+  
+  <img align="center" alt="Bruno-Nodejs" height="30" width="40"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/master/icons/manifest.svg"/>
 
 
   
