@@ -19,6 +19,10 @@
    Desenvolvimento Especializado em Back-end com NodeJS, JavaScript & TypeScript.
   </div>
   
+  <div align="center">    
+   API's Rest, Integrações e Soluções Inteligentes!
+  </div>
+  
   <img align="center" alt="Bruno-Manifest" height="auto" width="100%"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/main/my-manifest.svg"/>
 
 
