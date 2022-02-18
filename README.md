@@ -18,7 +18,7 @@
    <h4>Desenvolvimento Especializado em Back-end com NodeJs, JavaScript & TypeScript.</h4>
   </div>
   
-  <img align="center" alt="Bruno-Manifest" height="auto" width="100%"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/main/manifest.svg"/>
+  <img align="center" alt="Bruno-Manifest" height="auto" width="100%"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/master/manifest.svg"/>
 
 
   
