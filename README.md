@@ -6,32 +6,29 @@
   
   <hr>
   
-  <div style="display: inline_block" align="center">
+  <div style="display: inline_block; align-itens: center" align="center">
     <br>
-   <img align="center" alt="Bruno-Nodejs" height="50" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display: flex"/>
-  <img style="display: flex" align="center" alt="Bruno-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="display: flex" align="center" alt="Bruno-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
+   <img align="center" alt="Bruno-Nodejs" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display: flex"/>
+  <img style="display: flex" align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="display: flex" align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
   
+  <br>
+  
   <div align="center">    
-   <h4>Desenvolvimento Especializado em Back-end com NodeJs, JavaScript & TypeScript.</h4>
+   Desenvolvimento Especializado em Back-end com NodeJs, JavaScript & TypeScript.
   </div>
   
   <img align="center" alt="Bruno-Manifest" height="auto" width="100%"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/main/my-manifest.svg"/>
 
 
-  
-
-  
-
-
 <br>
+  
+  <h4>Logs:</h4>
 
 - 🌱 Nos últimos tempos tenho me dedido a ampliar os meus conhecimentos e evoluir como programador
 - ⚡ Atualmente busco aplicar TypeScript em todos os meus projetos e estou aprendendo a usar o Prisma ORM
-- 📫 Meu melhor e-mail: contato@brunoweber.com.br
-- 😄 Pronomes: ele/dele
+  
 - 🤔 Momento aleatório: A melhor palavra curinga do mundo que existe é a palavra "depende"
 
 ##
