@@ -16,7 +16,7 @@
   <br>
   
   <div align="center">    
-   Desenvolvimento Especializado em Back-end com NodeJs, JavaScript & TypeScript.
+   Desenvolvimento Especializado em Back-end com NodeJS, JavaScript & TypeScript.
   </div>
   
   <img align="center" alt="Bruno-Manifest" height="auto" width="100%"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/main/my-manifest.svg"/>
@@ -24,12 +24,12 @@
 
 <br>
   
+ ##
+  
   <h4>Logs:</h4>
 
 - 🌱 Nos últimos tempos tenho me dedido a ampliar os meus conhecimentos e evoluir como programador
 - ⚡ Atualmente busco aplicar TypeScript em todos os meus projetos e estou aprendendo a usar o Prisma ORM
-  
-- 🤔 Momento aleatório: A melhor palavra curinga do mundo que existe é a palavra "depende"
 
 ##
 
@@ -49,6 +49,8 @@
 ![Snake animation](https://github.com/brunohsweber/brunohsweber/blob/output/github-contribution-grid-snake.svg)
   
 ##
+  
+<div>🤔 Fatos aleatórios: A melhor palavra curinga do mundo que existe é a palavra "depende".</div>
   
 <div> 
   <br>
