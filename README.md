@@ -66,6 +66,8 @@
   <a href="https://www.linkedin.com/in/brunohsweber" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunohsweber@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  
- 
 </div>
+  
+  <br><br>
+  
+  <div>"O aprendizado é contínuo e sempre haverá um próximo nível" - Rocketseat</div>
