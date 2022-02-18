@@ -30,6 +30,7 @@
 
 - 🌱 Nos últimos tempos tenho me dedido a ampliar os meus conhecimentos e evoluir como programador
 - ⚡ Atualmente busco aplicar TypeScript em todos os meus projetos e estou aprendendo a usar o Prisma ORM
+- 🤔 Fatos aleatórios: A melhor palavra curinga do mundo que existe é a palavra "depende".</div>
 
 ##
 
@@ -50,7 +51,8 @@
   
 ##
   
-<div>🤔 Fatos aleatórios: A melhor palavra curinga do mundo que existe é a palavra "depende".</div>
+
+  <a href="https://drive.google.com/file/d/1mNP35fB4nqfX9g2q99HHTbz18af4kGF5/view?usp=sharing" target="_blank">>> Clique aqui para acessar o meu currículo <<</a>
   
 <div> 
   <br>
