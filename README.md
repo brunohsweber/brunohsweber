@@ -1,11 +1,21 @@
 <div>
   
   <div align="center">
-    <h2>Olá! Eu sou Bruno Weber e seja bem-vindo ao meu portfólio "👋"</h2>
+    <h3>Olá! Eu sou Bruno Weber e seja bem-vindo ao meu portfólio "👋"</h3>
   </div>
   
-  <div align="center">
-    Desenvolvimento Especializado em Back-end com NodeJs, JavaScript & TypeScript
+  <hr>
+  
+  <div style="display: inline_block" align="center">
+    <br>
+   <img align="center" alt="Bruno-Nodejs" height="50" width="60"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display: flex"/>
+  <img style="display: flex" align="center" alt="Bruno-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="display: flex" align="center" alt="Bruno-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  </div>
+  
+  <div align="center">    
+   <h4>Desenvolvimento Especializado em Back-end com NodeJs, JavaScript & TypeScript.</h4>
   </div>
   
   <img align="center" alt="Bruno-Manifest" height="auto" width="100%"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/master/manifest.svg"/>
@@ -14,17 +24,10 @@
   
 
   
-<div style="display: flex"><br>
-  
-   <img align="center" alt="Bruno-Nodejs" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display: flex"/>
-  <img style="display: flex" align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="display: flex" align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-</div>
+
 
 <br>
 
-- 🔭 Meu foco é o desenvolvimento de back-end com NodeJS, JavaScript & TypeScript, utilizando seu ecossistema de tecnologias para a resolução de problemas em uma estrutura robusta, flexível e escalável.
 - 🌱 Nos últimos tempos tenho me dedido a ampliar os meus conhecimentos e evoluir como programador
 - ⚡ Atualmente busco aplicar TypeScript em todos os meus projetos e estou aprendendo a usar o Prisma ORM
 - 📫 Meu melhor e-mail: contato@brunoweber.com.br
