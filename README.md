@@ -52,7 +52,7 @@
 ##
   
 
-  <a href="https://drive.google.com/file/d/1mNP35fB4nqfX9g2q99HHTbz18af4kGF5/view?usp=sharing" target="_blank">Clique aqui para acessar o meu currículo/a>
+  <a href="https://drive.google.com/file/d/1mNP35fB4nqfX9g2q99HHTbz18af4kGF5/view?usp=sharing" target="_blank">Clique aqui para acessar o meu currículo</a>
   
 <div> 
   <br>
