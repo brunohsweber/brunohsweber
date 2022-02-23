@@ -34,7 +34,6 @@
 
 - 🌱 Nos últimos 30 dias tenho focado em me dedicar exclusivamente para ampliar os meus conhecimentos e evoluir como programador
 - ⚡ Atualmente busco aplicar TypeScript em todos os meus projetos e estou aprendendo a usar o Prisma ORM
-- 🤔 Fatos aleatórios: Para mim, "depende" é a melhor palavra curinga do mundo que existe</div>
 
 ##
 
