@@ -1,7 +1,7 @@
 <div>
   
   <div align="center">
-    <h3>Olá! Eu sou Bruno Weber e seja bem-vindo ao meu portfólio "👋"</h3>
+    <h3>Olá! Seja bem-vindo ao meu portfólio "👋"</h3>
   </div>
   
   <hr>
