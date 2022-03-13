@@ -12,37 +12,12 @@
   <img style="display: flex" align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img style="display: flex" align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </div>
-  
-  <br>
-  
-  <div align="center">    
-   Desenvolvimento Especializado em Back-end com NodeJS, JavaScript & TypeScript.
-  </div>
-  
-  <div align="center">    
-   API's Rest, Integrações e Soluções Inteligentes!
-  </div>
-  
-  <img align="center" alt="Bruno-Manifest" height="auto" width="100%"  src="https://raw.githubusercontent.com/brunohsweber/brunohsweber/main/my-manifest.svg"/>
 
 
 <br>
-  
- ##
-  
-  <h4>Logs:</h4>
-
-- 🌱 Nos últimos 30 dias tenho focado em me dedicar exclusivamente para ampliar os meus conhecimentos e evoluir como programador
-- ⚡ Atualmente busco aplicar TypeScript em todos os meus projetos e estou aprendendo a usar o Prisma ORM
-
-##
-
-
-
 
 
 <div>
-  
   
   <br>
   <a href="https://github.com/brunohsweber">
